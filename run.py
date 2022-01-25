@@ -63,7 +63,7 @@ def p_main (O00O0OOOO0O000000 ,OO000OO00OO00O00O ,OOOOOO000OO00O000 ):#line:22
             tx_code (O0O0O0000O0O0O00O )#line:89
             time .sleep (4 )#line:90
             if O0O0O0000O0O0O00O .current_url =='https://jc88.me/home':#line:91
-                telegram_bot ("jc88",'微信公众号 柠檬玩机交流 邀请成功！')#line:92
+                telegram_bot ("jc88",'被你轻轻薅了一下！！！')#line:92
                 O0O0O0000O0O0O00O .quit ()#line:93
             else :#line:94
                 telegram_bot ("jc88",'微信公众号 柠檬玩机交流 邀请失败')#line:95
